@@ -8,10 +8,7 @@ This project is assessed against [AS91896](https://www.nzqa.govt.nz/nqfdocs/ncea
 
 The project involves the programming of a two-player game.
 
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
+"Old Gold" is a strategic two-player game where each player tries to move coins across a board to achieve a specific objective: removing the gold coin from the far-left position of the board. Players take turns moving or removing tokens, which include silver coins and one gold coin. The game requires careful planning, as certain moves are restricted based on the arrangement of the tokens on the board.
 
 
 ## Source Code
